@@ -172,3 +172,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#image
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.h264
+# dir
+train/
+test/
+valid/
+yolo_dataset/
+0816_record/
