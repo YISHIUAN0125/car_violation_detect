@@ -1,0 +1,13 @@
+train: E:/NCU/yolov11/train/images
+val: E:/NCU/yolov11/valid/images
+test: E:/NCU/yolov11/test/images
+
+nc: 3
+names: ['Car', 'Motorcycle', 'Pedestrian']
+
+roboflow:
+  workspace: shiuana01
+  project: roaddata-bdatt
+  version: 27
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/shiuana01/roaddata-bdatt/dataset/27
