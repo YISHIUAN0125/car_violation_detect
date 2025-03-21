@@ -185,4 +185,4 @@ test/
 valid/
 yolo_dataset/
 0816_record/
-.txt
+*.txt
